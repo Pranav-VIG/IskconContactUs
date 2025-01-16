@@ -1,2 +1,2 @@
 # IskconContactUs
-this is repo for designing contact us page for iskcon nvcc 
+project work for designing contact us page for iskcon nvcc 
